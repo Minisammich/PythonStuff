@@ -1,0 +1,22 @@
+CMPT 142 Assignment 1 - Wow Factor
+Jeffrey Hamilton, nfj513, 11393559.
+
+For the Wow Factor of my assignment, I have made some minor and some major improvements to the overall
+function of each program 1-4.
+
+The improvement in Question 1, is that if the adjective you choose starts with the letter "A", it will put
+the word "an" into the sentence, and if the adjective does not start with an "A", it will put "a" instead of "an."
+For example: "He ran into an angry aardvark..." or "He ran into a hungry hippo..."
+I find that having the incorrect form is distracting, and so I felt it was necessary to make it correct.
+
+The improvement in Question 2, is that it will not only tell you the total price of the fuel needed for the roadtrip,
+but the volume of fuel that will be consumed, and the efficiency of the car is converted from MPG to L/100km, which could be
+helpful for comparing it with other people to know how efficient your car is relative to others here in Canada.
+
+The improvement in Question 3 is relatively minor, it simply also tells you the total square metres of wall and roof that will
+need to be painted along with the total cost of the paint needed.
+
+The improvement in Question 4, is that it will not accept your username until you accept that it is truncated, and if they don't
+accept that it will be truncated, it asks you to put in a new username.
+
+These minor improvements may not be much on their own, but all together I think they add up to be a pretty good wow factor. 
