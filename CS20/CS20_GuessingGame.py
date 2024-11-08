@@ -5,7 +5,8 @@
 import random
 from random import randint
 from datetime import datetime
-print(""">Easy = 1-10 with 4 guesses.
+print("""
+>Easy = 1-10 with 4 guesses.
 >Normal = 1-30 with 8 guesses.
 >Hard = 1-50 with 10 guesses.
 >Extreme = 1-80 with 15 guesses.
