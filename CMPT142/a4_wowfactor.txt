@@ -1,0 +1,3 @@
+I spent my entire time working on q2, and so I didn't end up being able to make anything special for my wow factor. 
+I hope that me completing q2 with correct outputs, and clean code and comments to count towards my wow factor mark. 
+I even went and made Systems of linear equations as test cases to make sure my code was (mostly) bulletproof.

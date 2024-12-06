@@ -1,0 +1,7 @@
+My Wow Factor for Assignment 2 is the added cleanliness, conciseness, and visual appeal of all my answers to the questions 2 and 3.
+
+For Question 2, I used TeX to make the title look proper, and converted floats to ints if the value was an integer to stop the decimal
+points from displaying in the title. I also used comments to visually split the code into sections to make it easier to see where along 
+the code you are, and which parts are doing what parts of the program.
+
+For Question 3, I also used comments to visually split the code.
